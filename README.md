@@ -9,7 +9,7 @@ Rearing classifier for mouse in open field arena with 8 body parts labelled
 
 The labelling schematics for this model is 8 body parts on a single mouse recorded 90° above angle. To optimize performance, a threshold probability p=0.313 and a minimum bout duration(rearing)=300ms should be used.
 
-<img align="left" width="450"  src="https://github.com/saviochan/Deeplabcut-OpenFieldArena/blob/master/images/Labelling.png">| <img align="left" width="450"  src="https://github.com/saviochan/SimBA-OpenFieldArena/blob/master/images/Model%20settings.jpg"><br/>
+<img align="left" width="400"  src="https://github.com/saviochan/Deeplabcut-OpenFieldArena/blob/master/images/Labelling.png"><img align="left" width="400"  src="https://github.com/saviochan/SimBA-OpenFieldArena/blob/master/images/Model%20settings.jpg"><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 ### Model evaluation
