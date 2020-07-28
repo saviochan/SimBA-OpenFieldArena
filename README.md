@@ -22,7 +22,7 @@ The model was built with 19058 manually annotated rearing frames(~13% of total f
 To further validate the performance of our model, we took a 25-min open field video(15000 frames) and scores the human-labelled result with the machine-labelled result.
 
 <img align="left" width="1000" src="https://github.com/saviochan/SimBA-OpenFieldArena/blob/master/images/Comparison.jpg">
-<img align="left" width="1000" src="https://github.com/saviochan/SimBA-OpenFieldArena/blob/master/images/chart.jpg"><br/>
+<img align="left" width="1000" src="https://github.com/saviochan/SimBA-OpenFieldArena/blob/master/images/chart.jpg">
 
 More evaluation files can be found [here.](/models/generated_models/model_evaluations)
 
