@@ -17,14 +17,14 @@ The labelling schematics for this model is 8 body parts on a single mouse record
 The model was built with 19058 manually annotated rearing frames(~13% of total frames). With a train-test ratio of 0.8, the trained model has a F1 score=0.71, a precision=0.68 and a recall=0.74.
 
 <img align="left" width="300" src="https://github.com/saviochan/SimBA-OpenFieldArena/blob/master/images/Curve.jpg">
-<img align="left" width="300" src="https://github.com/saviochan/SimBA-OpenFieldArena/blob/master/images/Curve_2.jpg"><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img align="left" width="300" src="https://github.com/saviochan/SimBA-OpenFieldArena/blob/master/images/Curve_2.jpg"><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 To further validate the performance of our model, we took a 25-min open field video(15000 frames) and scores the human-labelled result with the machine-labelled result.
 
 <img align="left" width="600" src="https://github.com/saviochan/SimBA-OpenFieldArena/blob/master/images/Comparison.jpg">
 <img align="left" width="200" src="https://github.com/saviochan/SimBA-OpenFieldArena/blob/master/images/chart.jpg"><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-More evaluation files can be found [here](/models/generated_models/model_evaluations)
+More evaluation files can be found [here.](/models/generated_models/model_evaluations)
 
 ### Downloads
 The rearing model can be downloaded on Zenodo: 
