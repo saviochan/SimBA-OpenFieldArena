@@ -27,4 +27,4 @@ To further validate the performance of our model, we took a 25-min open field vi
 More evaluation files can be found [here.](/models/generated_models/model_evaluations)
 
 ### Downloads
-The rearing model can be downloaded on Zenodo: 
+The rearing model can be downloaded on Zenodo: https://zenodo.org/record/3964701#.XyB8OJ5KhPY
